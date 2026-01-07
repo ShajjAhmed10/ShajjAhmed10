@@ -2,7 +2,7 @@
 
 ### 🧠 Psychology Graduate | 🤖 Aspiring AI Researcher | 📊 Computational Social Scientist
 
-I am bridging the gap between **Human Behavioral Science** and **Artificial Intelligence**. With a Master’s background in Psychology, I am currently on an 8-month intensive journey to master the computational tools required to analyze social dynamics, sentiment, and human-computer interaction at scale.
+I am bridging the gap between **Human Behavioral Science** and **Artificial Intelligence**. With a Master’s background in Psychology, I am currently on an 8-month intensive journey to master the computational tools required to analyse social dynamics, sentiment, and human-computer interaction at scale.
 
 ---
 
