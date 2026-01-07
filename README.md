@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sharjeel 👋
 
 ### 🧠 Psychology Graduate | 🤖 Aspiring AI Researcher | 📊 Computational Social Scientist
 
