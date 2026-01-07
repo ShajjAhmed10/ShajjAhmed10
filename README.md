@@ -25,4 +25,5 @@ I am currently in **Phase 1** of my technical roadmap:
 
 ---
 📫 **How to reach me:** https://www.linkedin.com/in/sharj33l/
+
 📂 **Portfolio:** Check out my repositories below to see my latest research scripts.
